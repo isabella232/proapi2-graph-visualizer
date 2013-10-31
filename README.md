@@ -1,6 +1,6 @@
 # proapi2-graph-visualizer
 
-Ruby, graphviz visualizer for WhitePages PRO API 2.0
+#### API Response Visualizer for WhitePages PRO API 2.0
 
 ![WhitePages Graph](https://raw.github.com/whitepages/proapi2-graph-visualizer/master/graphoutput.png)
 
