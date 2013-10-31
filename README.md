@@ -2,6 +2,9 @@
 
 Ruby, graphviz visualizer for WhitePages PRO API 2.0
 
+![WhitePages Graph](https://raw.github.com/whitepages/proapi2-graph-visualizer/master/graphoutput.png)
+
+
 ## Requirements
 
 * A WhitePages PRO API Key. For more information, please email [WhitePages PRO Sales](mailto:prosales@whitepages.com). You should also study the [documentation for the WhitePages PRO API 2.0](http://whitepages.github.io/pro-api-doc).
